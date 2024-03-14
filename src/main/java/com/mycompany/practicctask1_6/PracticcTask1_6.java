@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.practicctask1_6;
+package com.mycompany.practictask1_6;
 
 /**
  *
